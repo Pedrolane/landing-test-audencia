@@ -1,0 +1,110 @@
+
+/* style.css */
+body{
+  background: rgb(245,245,245);
+  color: rgb(10, 10, 10);
+  font-size: 16px;
+  font-family: 'Lato', sans-serif;
+  font-weight: lighter;
+  margin:0;
+}
+
+h1, h2 {
+  font-family: 'Lato', sans-serif;
+}
+
+h1{
+  font-weight: bold;
+  font-size: 50px;
+}
+h2 {
+  font-weight: bold;
+  font-size: 30px;
+  color:#6875e2;
+}
+a {
+  color: #6875e2;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  font-weight: bolder;
+  color: white;
+}
+
+#banner {
+  background-image: url('https://picsum.photos/1000/600/');
+  padding: 150px 0;
+  color: white;
+  background-size: cover;
+  text-align: center;
+}
+
+
+#banner p {
+  font-size: 24px;
+  opacity:0.7;
+  margin-bottom: 40px;
+}
+
+.btn-blue {
+  border-radius: 4px;
+  background-color: #6875e2;
+  color: white;
+  padding: 10px 15px;
+}
+
+.btn-blue:hover {
+  background-color: #7795f8;
+  color: white;
+}
+
+.card-white {
+  text-align:center;
+  background-color: white;
+  box-shadow: 0px 5px 5px rgba(0,0,0,0.2);
+  margin: 20px 0;
+  padding: 30px 0;
+  border-radius: 5px;
+  height:280px;
+}
+
+#footer {
+  background: black;
+  color: white;
+  padding: 20px;
+
+}
+
+#footer a {
+  color: lightgrey;
+  font-size: 32px;
+}
+#footer a:hover {
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
